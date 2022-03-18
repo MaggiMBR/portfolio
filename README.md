@@ -3,7 +3,7 @@
 ## Geneal information
 
 -This project is built in VS code.
--The programing languages used are HTML, CSS, JavaScript.
+-The programing languages used are HTML and CSS.
 -The code is open source and hosted by Netlify.
 -The fonts are obtained at: `https:/fonts.googleapis.com`
 -The icons are obtained at: `https://kit.fontawesome.com`
