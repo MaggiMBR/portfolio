@@ -24,16 +24,19 @@ h1 {
 }
 
 h2 {
-  font-size: 54px;
+  font-weight: bold;
+  color: #ef6c39;
+  font-size: 45px;
 }
 
 h3 {
   color: #194545;
-  font-size: 48px;
+  font-size: 35px;
+  text-decoration: overline;
 }
 
 h5 {
-  color: var(--branding-color);
+  color: #194545;
   font-family: var(--heading-font-family);
   font-size: 18px;
   padding: 15px 0;
@@ -66,7 +69,6 @@ p {
 .hero h2 {
   font-family: var(--default-font-family);
   font-weight: normal;
-  font-size: 24px;
   line-height: 1.5;
 }
 
@@ -80,7 +82,6 @@ p {
 }
 
 .content h2 {
-  font-size: 18px;
   font-family: var(--default-font-family);
 }
 
@@ -149,7 +150,7 @@ p {
   }
 
   h2 {
-    font-size: 44px;
+    font-size: 35px;
   }
 
   h3 {
