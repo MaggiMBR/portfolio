@@ -1,15 +1,18 @@
 # Building a Portfolio
 
 ## Geneal information
-
 -This project is built in VS code.
+
 -The programing languages used are HTML and CSS.
+
 -The code is open source and hosted by Netlify.
+
 -The fonts are obtained at: `https:/fonts.googleapis.com`
+
 -The icons are obtained at: `https://kit.fontawesome.com`
 
-## Site description
 
+## Site description
 The site is divide in 4 pages: 
 1. Home Page: general information about coder and projects.
 2. About: resume fo coder backgroung.
