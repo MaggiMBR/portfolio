@@ -1,7 +1,7 @@
 # Building a Portfolio
 
 <p align="center">
-  <img  src="img/homepage-portfolio.png">
+  <img  src="img/homepage-portfolio.png" alt="Portfolio" alt="Edit Building Page (screenshot)" height="300">
 </p>
 
 ## Geneal information
