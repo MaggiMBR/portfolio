@@ -1,7 +1,8 @@
 # Building a Portfolio
 
 <p align="center">
-  <img  src="img/homepage-portfolio.png" alt="Portfolio" alt="Edit Building Page (screenshot)" height="300">
+  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/029/917/original/homepage-portfolio.png?1648048236"
+        alt="homePage-portfolio" alt="Edit Building Page (screenshot)" height="300"
 </p>
 
 ## Geneal information
