@@ -204,6 +204,7 @@ p {
   border-radius: 20px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin: 0;
+  height: 423px;
 }
 
 .img-about {
@@ -312,6 +313,16 @@ footer {
   font-size: 16px;
   margin-bottom: 0px;
   color: var(--text-color);
+}
+
+.text_icon{
+color: gray;
+text-align: center;
+}
+
+.text_certificate{
+  color: #194545;
+  text-align: center;
 }
 
 .workimg {
