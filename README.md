@@ -23,7 +23,7 @@ Here you can find the link of the site: https://sleepy-torvalds-ba9689.netlify.a
 The site is divide in 4 pages: 
 1. Home Page: general information about coder and projects.
 2. About: resume of coder backgroung.
-3. Projects: description of how the site was conceived and buttons linked to the site web and the code.
+3. Projects: description of each project was conceived and buttons linked to the site web and the code.
 4. Skills: technologies the coder used and cettificates obtanied. 
 
 * At the buttom of each page, the coder info (E-mail, Linkedin, Github, Instagram) can be find.
