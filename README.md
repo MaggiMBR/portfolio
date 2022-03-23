@@ -1,7 +1,7 @@
 # Building a Portfolio
 
 <p align="center">
-  <img  src="img/recipe.png">
+  <img  src="img/homepage-portfolio.png">
 </p>
 
 ## Geneal information
