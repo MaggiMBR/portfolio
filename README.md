@@ -14,9 +14,9 @@ Here you can find the link of the site: https://sleepy-torvalds-ba9689.netlify.a
 
 -The code is open source and hosted by Netlify.
 
--The fonts are obtained at: https:/fonts.googleapis.com
+-The fonts are obtained at: `https:/fonts.googleapis.com`
 
--The icons are obtained at: https://kit.fontawesome.com
+-The icons are obtained at: `https://kit.fontawesome.com
 
 
 ## Site description
