@@ -1,5 +1,9 @@
 # Building a Portfolio
 
+<p align="center">
+  <img  src="img/recipe.png">
+</p>
+
 ## Geneal information
 -This project is built in VS code.
 
