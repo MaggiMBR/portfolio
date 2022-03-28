@@ -5,7 +5,7 @@
         alt="homePage-portfolio" alt="Edit Building Page (screenshot)" height="300"
 </p>
   
-Here you can find the link of the site: https://sleepy-torvalds-ba9689.netlify.app/
+Here you can find the link of the site: https://portfolio-maggib.netlify.app
 
 ## Geneal information
 -This project is built in VS code.
